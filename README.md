@@ -36,7 +36,8 @@ Compilar y ejercutar el código dando el resultado de: 4x^4 + 0x^3 - 1x^2 + 1x -
 
 <img width="1440" alt="Screen Shot 2025-02-28 at 4 31 12 PM" src="https://github.com/user-attachments/assets/45d4db31-8c32-4600-82ca-ce95b6b6ec6b" />
 
-<img width="1440" alt="Screen Shot 2025-02-28 at 4 31 12 PM" src="https://github.com/user-attachments/assets/45d4db31-8c32-4600-82ca-ce95b6b6ec6b" />
+<img width="1440" alt="Screen Shot 2025-02-28 at 4 33 18 PM" src="https://github.com/user-attachments/assets/d4bdaec2-f151-40b7-8189-a21d6d7a86cb" />
 
 3️⃣ Subir el código a GitHub de QUIZ 2
+
 
