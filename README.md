@@ -39,9 +39,11 @@ Crear un nuevo archivo llamado suma_polinomios.c.
 Agregar el código realizado. Se puede visualizar en el archivo agregago en el GIT como: (suma_polinomios.c)) 
 
 
-<img width="1440" alt="Screen Shot 2025-02-28 at 4 31 12 PM" src="https://github.com/user-attachments/assets/2a7cac29-6f01-450a-835e-4e4ec6bf873a" />
+<img width="1333" alt="Screen Shot 2025-02-28 at 5 39 18 PM" src="https://github.com/user-attachments/assets/b00e5b83-d84f-4885-af54-beb1e158d792" />
 
-<img width="1440" alt="Screen Shot 2025-02-28 at 4 33 18 PM" src="https://github.com/user-attachments/assets/ab8b4854-2d56-404b-b9a7-b715f068990c" />
+
+<img width="1301" alt="Screen Shot 2025-02-28 at 5 39 38 PM" src="https://github.com/user-attachments/assets/ec3832fe-018a-45ca-80ec-dd998f3081fa" />
+
 
 2️⃣ Compilar y ejecutar el programa
 
