@@ -28,7 +28,7 @@ Abrir VS Code.
 Crear un nuevo archivo llamado suma_polinomios.c.
 agregar el código realizado
 
-<img width="1440" alt="Screen Shot 2025-02-28 at 4 33 18 PM" src="https://github.com/user-attachments/assets/7d2a212c-a05b-4acf-a294-173b3840817d" />
+<img width="1440" alt="Screen Shot 2025-02-28 at 4 31 12 PM" src="https://github.com/user-attachments/assets/45d4db31-8c32-4600-82ca-ce95b6b6ec6b" />
 
 
 2️⃣ Compilar y ejecutar el programa
@@ -36,9 +36,7 @@ agregar el código realizado
 Abrir la terminal en VS Code (Ctrl + ~ en Mac).
 Compilar y ejercutar el código dando el resultado de: 4x^4 + 0x^3 - 1x^2 + 1x - 7
 
-
-<img width="1440" alt="Screen Shot 2025-02-28 at 4 31 12 PM" src="https://github.com/user-attachments/assets/45d4db31-8c32-4600-82ca-ce95b6b6ec6b" />
-
+<img width="1440" alt="Screen Shot 2025-02-28 at 4 33 18 PM" src="https://github.com/user-attachments/assets/7d2a212c-a05b-4acf-a294-173b3840817d" />
 
 3️⃣ Subir el código a GitHub de QUIZ 2
 
