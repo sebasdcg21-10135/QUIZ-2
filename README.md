@@ -13,8 +13,11 @@ b) Crear una matriz de coeficientes usando el valor 0 para indicar la ausencia d
 los términos del polinomio, incluido el término independiente. (5 pts.)
 
 c) Pruebe con el siguiente caso (3 pts.)
+
 a. 2x³ - 7
+
 b. - x² + x
+
 c. 4x⁴ - 2x³
 
 d) Para su evaluación, suba el resultado de su trabajo a su repositorio de GitHub para
