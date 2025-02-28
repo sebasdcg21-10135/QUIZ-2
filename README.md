@@ -29,8 +29,11 @@ compartido.
 1️⃣ Crear el archivo en C
 Abrir VS Code.
 Crear un nuevo archivo llamado suma_polinomios.c.
-agregar el código realizado
+agregar el código realizado. Se puede visualizar en el archivo agregago en el GIT)
 
+<img width="1440" alt="Screen Shot 2025-02-28 at 4 31 12 PM" src="https://github.com/user-attachments/assets/2a7cac29-6f01-450a-835e-4e4ec6bf873a" />
+
+<img width="1440" alt="Screen Shot 2025-02-28 at 4 33 18 PM" src="https://github.com/user-attachments/assets/ab8b4854-2d56-404b-b9a7-b715f068990c" />
 
 2️⃣ Compilar y ejecutar el programa
 
